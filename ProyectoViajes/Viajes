@@ -1,0 +1,11 @@
+e Toledo 15/03/2026 45 50 0 true true false
+v Lisboa 01/05/2026 250 40 0 2 true true
+e Benidorm 10/07/2026 85 60 1 false false true
+v Paris 12/06/2026 780 30 0 4 true true
+e Cuenca 05/04/2026 55 35 2 true false true
+v Pirineos 18/09/2026 290 25 2 2 false true
+e Oporto 12/05/2026 70 45 0 true true true
+v Mallorca 01/08/2026 520 50 1 5 true false
+e Marrakech 18/09/2026 120 50 2 false true true
+v Atenas 03/04/2026 540 28 0 3 true true
+e Avila 25/03/2026 40 30 0 true true false
